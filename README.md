@@ -127,7 +127,7 @@ This project includes a function `draw_dot()` that visualizes the computation gr
 If you've generated a visualization in your notebook, you can add an image here:
 
 ```markdown
-![Computation Graph](Computation Graph.png)
+![Computation Graph](computation_graph.png)
 ```
 
 ---
